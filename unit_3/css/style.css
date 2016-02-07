@@ -1,0 +1,16 @@
+body {
+  background-color: FFFFFF;
+}
+h1 {
+  color: FF0000;
+  font-family: Helvetica;
+}
+p {
+  color: 000000;
+}
+ul {
+  color: 000000;
+}
+#slogan {
+  font-style: italic;
+}
