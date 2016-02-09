@@ -1,10 +1,22 @@
 body {
   text-align: center;
   background-color: #FF0F0E;
-}
+  }
 h1 {
   font-weight: bold;
+  font-family: Helvetica;
+  font-size: 60px;
 }
 #slogan {
   font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
 }
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+p {
+  font-family: Helvetica, bold;
+}
+
