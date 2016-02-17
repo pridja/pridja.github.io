@@ -1,22 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
 body {
   text-align: center;
   background-color: #FF0F0E;
   }
 h1 {
   font-weight: bold;
-  font-family: Helvetica;
+  font-family: 'Oswald';
   font-size: 60px;
 }
 #slogan {
   font-style: italic;
-  font-weight: bold;
+  font-family: 'Oswald';
+  font-weight: medium;
   font-size: 40px;
 }
 ul {
     text-align: center;
+    font-family: 'Oswald';
     list-style-type: none;
 }
 p {
-  font-family: Helvetica, bold;
+  font-family: 'Oswald';
+  font-weight: lighter;
 }
 
