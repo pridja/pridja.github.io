@@ -15,7 +15,7 @@ header {
   clear: both;
   height: 0;
 }
-}
+
 #two_column {
   background-color: #FFB7CF;
   border:1px black solid;
@@ -39,7 +39,15 @@ header {
 }
 
 nav {
-  background-color: #E8C66A;
+  background-color: lightpink;
+  font-size: 1.8em;
+  float: right;
+}
+nav a {
+  text-decoration: none;
+  color: #000000;
+  margin: 1.8em;
+  display: inline-block;
 }
 
 article {
@@ -61,13 +69,15 @@ div {
 }
 body {
   text-align: center;
+  padding: 1em;
+  background-color: lightpink;
 
   }
 h1 {
   font-weight: bold;
   font-family: 'Oswald';
   font-size: 60px;
-  background-color: white;
+  background-color: lightpink;
 }
 #slogan {
   font-style: italic;
